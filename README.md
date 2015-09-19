@@ -15,16 +15,16 @@ Keys for authorization are in [personal account](https://ss.zadarma.com/api/).
 ## Installation
 ### Via Сomposer
 ```sh
-composer require "zadarma/user-api-v1"
+composer require "doncode/user-api-v1"
 ```
 or just add this line to your `composer.json` file:
 ```json
-"zadarma/user-api-v1"
+"doncode/user-api-v1"
 ```
 
 ### Via Git
 ```sh
-git clone git@github.com:zadarma/user-api-v1.git
+git clone git@github.com:doncode/user-api-v1.git
 ```
 Or just download "Client.php" from the folder "lib" and put it to your library folder.
 
