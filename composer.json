@@ -1,5 +1,5 @@
 {
-    "name": "zadarma/user-api-v1",
+    "name": "doncode/user-api-v1",
     "description": "PHP class for Zadarma API",
     "keywords": [
       "zadarma",
@@ -10,7 +10,7 @@
     ],
     "type": "library",
     "license": "MIT",
-    "homepage": "https://github.com/zadarma/user-api-v1",
+    "homepage": "https://github.com/doncode/user-api-v1",
     "authors": [
         {
             "name": "Zadarma",
